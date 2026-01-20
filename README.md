@@ -30,7 +30,7 @@ CS2 工具箱是一款基于 Python + Tkinter 开发的桌面应用，专为 CS2
 5. 个人博客直达
 
     内置「我的博客」快捷按钮，一键访问 chukai.cc
-    弹窗提示「欢迎来到初开的个人博客」，提升用户体验
+
 
 技术栈
 
@@ -42,7 +42,7 @@ CS2 工具箱是一款基于 Python + Tkinter 开发的桌面应用，专为 CS2
 下载与使用
 1. 直接下载
 
-    前往 GitHub Releases 页面下载最新版 EXE 文件：GitHub Releases（替换为你的仓库地址）
+    前往 GitHub Releases 页面下载最新版 EXE 文件：https://github.com/LIUQiu111/cs2-toolbox-justsendmessage
     无需安装，下载后右键「以管理员身份运行」即可使用
 
 2. 源码运行
@@ -51,7 +51,7 @@ bash
 运行
 
 # 克隆仓库
-git clone https://github.com/你的用户名/cs2-toolbox.git
+git clone https://github.com/LIUQiu111/cs2-toolbox.git
 cd cs2-toolbox
 
 # 安装依赖
