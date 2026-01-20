@@ -44,9 +44,6 @@ A lightweight desktop tool for CS2 players to send preset messages quickly via b
 
 方式2：源码运行
 
-# 克隆仓库
-git clone https://github.com/LIUQiu111/cs2-toolbox.git
-cd cs2-toolbox
 
 # 安装依赖（国内源加速）
 pip install pyperclip pillow -i https://pypi.tuna.tsinghua.edu.cn/simple
@@ -138,7 +135,7 @@ v1.0.0（初始版本）
 
 本项目采用 MIT 许可证开源，允许个人和商业使用，二次开发或分发时请保留作者信息和版权声明。
 
-MIT License © 2024 初开
+MIT License © 2026 初开
 
 🌟 支持与反馈
 
