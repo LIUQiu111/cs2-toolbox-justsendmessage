@@ -8,7 +8,7 @@ A lightweight desktop tool for CS2 players to send preset messages quickly via b
 博客直达：一键访问作者个人博客，快速获取更多资源​
 简洁UI：深色主题设计，游戏内不刺眼，控件清晰易操作​
 📸 界面展示 | Screenshot​
-![CS2 Toolbox Interface](http://youke.xn--y7xa690gmna.cn/s1/2026/01/20/696fa39dca614.webp)（替换为你的实际界面截图链接）​
+![CS2 Toolbox Interface](http://youke.xn--y7xa690gmna.cn/s1/2026/01/20/696fa39dca614.webp)​
 🛠️ 技术栈 | Tech Stack​
 开发语言：Python 3.x​
 GUI框架：Tkinter（原生轻量，无额外依赖）​
